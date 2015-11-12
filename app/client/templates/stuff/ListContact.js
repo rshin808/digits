@@ -15,7 +15,6 @@ Template.ListContact.events({
     e.preventDefault();
     if (confirm("Delete this contact?")) {
       var currentContactId = this._id;
-      console.log(this._id);
       Meteor.call('deleteContact', currentContactId);
       Router.go('ListContact');
     }
