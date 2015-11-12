@@ -21,15 +21,15 @@ The settings files will set up the user accounts.
 
 The home page for the application looks like this:
 
-![][https://github.com/rshin808/digits/blob/master/doc/home.png]
+![](https://github.com/rshin808/digits/blob/master/doc/home.png)
 
 To list all of the contacts, login and then go to the List Contacts page:
 
-![][https://github.com/rshin808/digits/blob/master/doc/list.png]
+![](https://github.com/rshin808/digits/blob/master/doc/list.png)
 
 To add a contact, got ot the Add Contacts page:
 
-![][https://github.com/rshin808/digits/blob/master/doc/add.png]
+![](https://github.com/rshin808/digits/blob/master/doc/add.png)
 
 # Credits
 
