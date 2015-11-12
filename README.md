@@ -21,15 +21,15 @@ The settings files will set up the user accounts.
 
 The home page for the application looks like this:
 
-![][https://]
+![](https://github.com/rshin808/digits/blob/qa-1/doc/home.png)
 
 To list all of the contacts, login and then go to the List Contacts page:
 
-![][https://]
+![](https://github.com/rshin808/digits/blob/qa-1/doc/list.png)
 
 To add a contact, got ot the Add Contacts page:
 
-![][https://]
+![](https://github.com/rshin808/digits/blob/qa-1/doc/add.png)
 
 # Credits
 
