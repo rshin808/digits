@@ -20,6 +20,14 @@ Meteor.methods({
   editContact: function(doc, docID) {
     check(doc, Contact.simpleSchema());
     Contact.update({_id: docID}, doc);
+  },
+  /**
+   * Delete a Contact record.
+   * @param doc The Contact document.
+   * @param docID It's ID.
+   */
+  deleteContact: function(docID) {
+    Contact.remove(docID);
   }
 });
 
